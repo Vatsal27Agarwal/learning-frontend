@@ -1,0 +1,57 @@
+body {
+	background-color:powderblue;
+	text-align: center;
+	font-family: montserrat regular 400;
+}
+
+header{
+	background-color: black;
+	padding: 10px;
+}
+
+ul {
+	list-style: none;
+}
+ 
+li{
+	display: inline;
+	margin: 100px;
+}
+
+li a{
+	color: white;
+	text-decoration: none;
+}
+
+
+li a:hover{
+	color: red;
+	
+}
+
+footer{
+	background-color: black;
+	padding: 10px;
+	color: white;
+}
+
+img.photos{
+	margin: 50px;
+}
+
+h4.fhead1{
+	padding-left: 10%;
+}
+
+p.feature1{
+	padding-right: 70%;
+}
+
+h4.fhead2{
+	padding-right: 10%;
+}
+
+p.feature2{
+	padding-left: 70%;
+}
+
